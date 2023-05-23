@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1>adasda</h1>
 <p>test</p>
 
@@ -10,3 +11,6 @@ check routes url team di:
 /team5 (not ready)
 /team6
 /team7
+=======
+staging
+>>>>>>> bugfix/quotes
